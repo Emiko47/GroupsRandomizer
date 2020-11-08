@@ -1,6 +1,6 @@
 # GroupsRandomizer 
 
-*Groups Randomizer* its a program that creates groups randomly by adding students and topic.
+*Groups Randomizer* its a program that creates groups randomly by adding students and topics.
 
 Requirements to run the program:
 
