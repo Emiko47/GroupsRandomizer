@@ -2,7 +2,7 @@
 
 *Groups Randomizer* is a program that creates groups randomly by adding students and topics.
 
-##Requirements to run the program:
+### Requirements to run the program:
 
 - Have installed the [.Net core sdk (version 3.1+)](https://dotnet.microsoft.com/download).
 
